@@ -1,2 +1,13 @@
 [compat]
 julia = "1.6"
+
+[deps]
+Colors
+CSV
+DataFrames
+HypothesisTests
+LinearAlgebra
+MultivariateStats
+Plots
+Statistics
+GLM
