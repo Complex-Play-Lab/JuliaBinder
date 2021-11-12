@@ -1,0 +1,10 @@
+.bash*
+.profile
+.jupyter*
+.config
+.ipynb*
+.cache
+.config
+.local
+.gitconfig
+Manifest.toml
