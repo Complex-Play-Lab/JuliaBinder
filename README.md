@@ -2,7 +2,7 @@
 <!-- Do not manually edit! To make changes, see build_readme.sh instead. -->
 
 # Getting Started
-Click this button [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/EducationalSciences693/JuliaBinder/HEAD) to run this project!
+Click this button [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2FEducationalSciences693%2FJuliaBinder/HEAD) to run this project!
 
 You'll find everything you need in `main.ipynb`!
 
