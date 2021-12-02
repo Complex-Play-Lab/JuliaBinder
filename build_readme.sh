@@ -25,7 +25,7 @@ Changes that you make on binder are temporary. You can download your files from 
 
 To make your own repo copy of this project that you can edit:
 
-1. Create a [copy of this template](`git config --get remote.origin.url`/generate). 
+1. Create a [copy of this template](`git config --get remote.origin.url`/generate). It will need to be a public repo, but you can name it whatever you want
 2. Create a [github personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). It will need the \`repo\` and \`workflow\` scopes
 3. Open your project on binder (the binder button in your README will automatically update to link to your project!)
 4. Make edits to your project on binder like you normally would
